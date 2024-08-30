@@ -8,7 +8,7 @@
 </head>
 <body>
     <div class="imagem-container">
-        <img src="[Projetos/Desafio 3/flutter_application_1/foto-do-projeto](https://github.com/marcaon13/APP-CALCULADORA-FLUTTER/blob/main/foto-do-projeto.png?raw=true)" alt="Descrição da Imagem">
+        <img src="https://github.com/marcaon13/APP-CALCULADORA-FLUTTER/blob/main/foto-do-projeto.png?raw=true" alt="Descrição da Imagem">
     </div>
 </body>
 </html>
